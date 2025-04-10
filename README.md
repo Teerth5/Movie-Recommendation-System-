@@ -26,9 +26,4 @@ The project leverages NLP techniques to convert textual metadata into numerical 
 - **Scikit-learn** (TF-IDF, Cosine Similarity)
 - **Jupyter Notebook**
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
-   cd movie-recommendation-system
