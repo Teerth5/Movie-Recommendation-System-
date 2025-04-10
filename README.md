@@ -30,5 +30,5 @@ The project leverages NLP techniques to convert textual metadata into numerical 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-recommendation-system.git
+   git clone https://github.com/Teerth5/Movie-Recommendation-System-
    cd movie-recommendation-system
